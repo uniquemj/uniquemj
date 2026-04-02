@@ -68,15 +68,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uniquemj&layout=compact&theme=radical" />
 </p>
 
----
-
-## 💬 Developer Mindset
-
-> Learn fast. Build fast. Improve daily.
-> Consistency > Motivation
-
----
-
-## ⚡ Fun Fact
-
-> I debug code like a detective 🕵️‍♂️ and relax with anime + music 🎸
